@@ -1,7 +1,7 @@
 # Exploratory-data-analysis
 Objective
 The objective of this project is to perform Exploratory Data Analysis on employee data and identify patterns, trends, and relationships among variables.
-Dataset Description
+Dataset Description.
 The dataset contains employee information including:
 
 - Employee ID
